@@ -1,0 +1,14 @@
+﻿Metrics,Description,Feature
+Daily Active User (DAU),This metrics will provide us a high-level view of how your user base is changing over time and user activity in your product.,Generic
+Adoption %,The number of users who have adopted the product by the total number of users who have access to the product. It can give you a good indication of the success of the product.,Generic
+Conversion %,"To calculate the conversion rate, you can divide the number of users who have taken the desired action by the total number of users who have access to the product.",Generic
+Stickiness (DAU/ MAU),"To calculate stickiness we will take the ratio of Daily active users and Monthly Active users ",Generic
+No. of user action per session,To calculate it we will simply calculate the no of user actions for each feature,"Code snippet, Create snippet and Publish, Discussion Forum, Huddle"
+Decrease in Customer Churn,"To calculate the customer churn rate, we can divide the number of customers who have stopped using the product by the total number of customers at the beginning of the period.",Code IDE
+Average user time,"To calculate average user time, you can sum up the total time that users spend on the marketplace experience and divide it by the total number of users.","Code IDE, Discussion Forum, Huddle"
+Bounce Rate,"To calculate bounce rate, we can divide the number of users who leave after visiting one page by the total number of users who enter the marketplace experience","Code IDE, Create snippet and Publish, Discussion Forum, Huddle, Plugin"
+Decrease in error per user,"To calculate the no of errors per user we will calculate the no of execution errors ","Code IDE, Create snippet and Publish"
+No. of plugins used per user,To calculate number of plugins used per user,Plugin
+No. of code snippets per user,To calculate number of code snippets used/ published per user,"Code snippet, Create snippet and Publish"
+No. of messages per user,To calculate number of messages sent by user in the forum,Discussion Forum
+Net Promoter Score (NPS),To measure of customer satisfaction and loyalty. This helps to determine how likely users are to recommend the platform to others.,"Discussion Forum, Mentorship, Plugin, Projects"
